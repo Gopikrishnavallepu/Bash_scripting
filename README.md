@@ -3,7 +3,7 @@ In this repo will all the practice bash programs and bash cheatsheet for quick r
 
 # utiliity bash programs list:
 1.awk
-2.grep
+2.grep 
 3.sed
 4.cut
 5.color-code
